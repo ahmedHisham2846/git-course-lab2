@@ -17,7 +17,7 @@ If your branch isn not merged: you can use this command
 ```
 git branch -D <branchName>
 ```
-to delete branch on your remotely: you can use this command
+to delete branch remotely: you can use this command
 
 ```
 git push <remoteName> : <deletedBranchName>
