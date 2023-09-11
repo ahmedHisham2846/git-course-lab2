@@ -41,3 +41,11 @@ to delete your tag remotely: you can use this command
 ```
 git push --delete <tagName>
 ```
+
+to add image in readme file: you can use this command
+
+```
+<img src="imageSource">
+```
+Example :
+<img src="./git2.jpg">
