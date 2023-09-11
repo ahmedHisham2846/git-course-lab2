@@ -17,8 +17,27 @@ If your branch isn not merged: you can use this command
 ```
 git branch -D <branchName>
 ```
+
 to delete branch remotely: you can use this command
 
 ```
 git push <remoteName> : <deletedBranchName>
+```
+
+to list your tags: you can use this command
+
+```
+git tag --list
+```
+
+to delete your tag locally: you can use this command
+
+```
+git tag -d <tagName>
+```
+
+to delete your tag remotely: you can use this command
+
+```
+git push --delete <tagName>
 ```
