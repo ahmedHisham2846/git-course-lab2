@@ -3,7 +3,7 @@
 to checkout another branch without commit changes: you can use this command
 
 ```
-git checkout <branchName>
+git stach
 ```
 
 to delete branch on your local machine: you can use this command
